@@ -16,3 +16,4 @@ public class UnitTest1
         Assert.Equal(8, result);
     }
 }
+// Branching strategy demonstration
